@@ -8,6 +8,8 @@ This is a tab strip born from other tabs strips, the key difference it **YOU** t
 The client will provide the layout to inflate, handling the view updating, the different selection states.
 
 
+![](resources/landing-strip.gif)
+
 ## Adding to your project
 
 To start using this library, add these lines to the `build.gradle` of your project:
